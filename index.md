@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+上传excel前，处理一下表头：脚本识别的列名为：'题干'、'选项'、'参考答案'、'解析'、'知识点1'、'知识点2'、'知识点3'、'知识点4'、'出处'、'页号+题号'、'书名'、'所属小节'、'题目图片'。
+选择题选项可以放在一个同一单元格“选项”中，也可以分别放在四列：“选项A”、“选项B”、“选项C”、“选项D”。
+如果所有选项放在同一个单元格中，选项之间换行分割。
+不用自己删除选项前的ABCD字母以及复制过来可能错误的选项标点符号，如“A、”，“B。”，“C，”，“D.”等，会自动过滤掉。
 
-You can use the [editor on GitHub](https://github.com/Nshcn/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+未选择任何文件
+题目代码
+答案代码
+上传excel前，处理一下表头：脚本识别的列名为：'题干'、'选项'、'参考答案'、'解析'、'知识点1'、'知识点2'、'知识点3'、'知识点4'、'出处'、'页号+题号'、'书名'、'所属小节'、'题目图片'。
+选择题选项可以放在一个同一单元格“选项”中，也可以分别放在四列：“选项A”、“选项B”、“选项C”、“选项D”。
+如果所有选项放在同一个单元格中，选项之间换行分割。
+不用自己删除选项前的ABCD字母以及复制过来可能错误的选项标点符号，如“A、”，“B。”，“C，”，“D.”等，会自动过滤掉。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nshcn/page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+未选择任何文件
+题目代码
+答案代码
